@@ -1,5 +1,9 @@
 scikit-learn==1.5.0
 jieba==0.42.1
 pandas==2.2.2
+numpy==2.0.0
 scipy==1.14.0
-
+matplotlib==3.9.0
+#TA-Lib=0.4.16
+tables==3.9.2
+jupyter==1.0.0
