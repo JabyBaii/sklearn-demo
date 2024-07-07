@@ -2,3 +2,4 @@ venv/*
 .idea/*
 instacart/*
 .ipynb_checkpoints/*
+*.dot
