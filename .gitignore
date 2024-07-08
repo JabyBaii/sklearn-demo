@@ -1,5 +1,5 @@
 venv/*
 .idea/*
 instacart/*
-.ipynb_checkpoints/*
+ipynb/.ipynb_checkpoints/*
 *.dot
