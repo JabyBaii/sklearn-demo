@@ -2,4 +2,4 @@ venv/*
 .idea/*
 *checkpoint*
 data_big/*
-data_ml/*.dot
+*.dot
